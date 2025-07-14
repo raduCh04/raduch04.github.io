@@ -4,13 +4,8 @@ title: About me
 subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Hi! I'm Radu, a 20-year-old Computer Science student from Germany with a passion for game development and high-performance software. I love building fast, efficient applications and exploring how code can be optimized for both power and elegance. I'm an avid gamer, self-taught guitarist, and dedicated musician. Whether it's creating a game world or writing a new riff, I'm always driven by creativity and technical curiosity.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+Beyond tech and music, I’m fascinated by psychology and endocrinology, and I’m always looking to understand how the human mind and body work—knowledge that often inspires my game and software ideas.
 
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Over the next year, I’m aiming to land an internship at CD Projekt Red in Poland and begin developing my own custom game engine from scratch. My long-term goal is to create immersive games and software that are not only high-performing but deeply meaningful.
