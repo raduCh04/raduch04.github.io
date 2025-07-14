@@ -21,10 +21,13 @@ author: Radu-Dumitru Chira
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  My Resources:
+    - Computer, Enhance!: "https://www.computerenhance.com/"
+    - Handmade Hero: "https://hero.handmade.network/"
+    - Game Programming Books: "https://github.com/kurong00/GameProgramBooks"
+  # Resources:
+  # - Beautiful Jekyll: "https://beautifuljekyll.com"
+  # - Learn markdown: "https://www.markdowntutorial.com/"
 
 ################
 # --- Logo --- #
@@ -51,7 +54,6 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "raduch04@gmail.com"
-  facebook: Radu Chira
   github: raduCh04
   youtube: "@RaduChira04"
   whatsapp: +4915222403618
@@ -91,7 +93,7 @@ social-network-links:
 
 # Select which social network share links to show in posts
 share-links-active:
-  twitter: true
+  twitter: false
   facebook: true
   linkedin: true
   vk: false
@@ -246,7 +248,7 @@ footer-hover-col: "#0085A1"
 ################
 
 # Ruby Date Format to show dates of posts
-date_format: "%B %-d, %Y"
+date_format: "%-d %B %Y, %H:%M"
 
 # Facebook App ID
 #fb_app_id: ""
